@@ -1,4 +1,4 @@
-### Hi there, i'm Denis and I'm a beginner QA-engineer from Russia👋
+### Hi there, I'm Denis and I'm a beginner QA-engineer from Russia👋
 
 <!--
 **ephemeralq/ephemeralq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
